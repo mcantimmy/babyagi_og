@@ -16,8 +16,8 @@ OPENAI_API_KEY = os.environ['OPENAI_API_KEY']
 client = OpenAI(api_key=OPENAI_API_KEY)
 
 # Set Variables
-CSV_FILE = "task_data.csv"
-OBJECTIVE = "Brainstorm and execute a social media brand targeting youth around AI with an ecommerce strategy."
+CSV_FILE = "task_data2.csv"
+OBJECTIVE = "Brainstorm and execute a social media campaign to explain why One Piece is high art. and why most of its low life audience can't fully appreciate it."
 YOUR_FIRST_TASK = "Develop a task list."
 
 # Print OBJECTIVE
